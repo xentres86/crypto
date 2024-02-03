@@ -1,7 +1,13 @@
 # crypto
-Crypto Scripts
+
+## Crypto Scripts
 
 Python scripts for Crypto Challenges.
 
-Basics:
+### Basics
+
 Basics for simple tasks, or snippets for use in larger scripts.
+
+### Exploits
+
+Exploits and cracks of algorithms.
